@@ -7,4 +7,4 @@ The referenced authors' torch code can be found [here](https://github.com/reedsc
 
 #### Sample Result
 
-<img src="txt2img/samples/83300iter.jpg" width="600px" height="800px"/>
+<img src="txt2img/samples/result.jpg" width="600px" height="800px"/>
